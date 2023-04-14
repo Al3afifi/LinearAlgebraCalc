@@ -1,2 +1,2 @@
 # LinearAlgebraCalc
-A calculator and manager of matrices and linear algebra 
+A calculator and manager of matrices, linear algebra, and linear transformations
